@@ -1,0 +1,717 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\mss.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mss.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\Scripts\\autosize.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\autosize.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\Scripts\\jquery-3.5.1.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery-3.5.1.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\Scripts\\jquery.convform.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.convform.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\Scripts\\jquery.convform.min.js",
+      "PackagePath": "staticwebassets\\Scripts\\jquery.convform.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\about-perfil.jpg",
+      "PackagePath": "staticwebassets\\assets\\about-perfil.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\advertise.jpg",
+      "PackagePath": "staticwebassets\\assets\\advertise.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\curved-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\curved-arrow.svg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\earthAD.jpg",
+      "PackagePath": "staticwebassets\\assets\\earthAD.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\esewa.png",
+      "PackagePath": "staticwebassets\\assets\\esewa.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\home-perfil.jpg",
+      "PackagePath": "staticwebassets\\assets\\home-perfil.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\icon.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\ime.png",
+      "PackagePath": "staticwebassets\\assets\\ime.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\index.html",
+      "PackagePath": "staticwebassets\\assets\\index.html"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\khalti.jpg",
+      "PackagePath": "staticwebassets\\assets\\khalti.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\logo.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\movies.png",
+      "PackagePath": "staticwebassets\\assets\\movies.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\project-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\project-1.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\project-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\project-2.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\project-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\project-3.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\random-lines.svg",
+      "PackagePath": "staticwebassets\\assets\\random-lines.svg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\scrollreveal.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\assets\\test.png",
+      "PackagePath": "staticwebassets\\assets\\test.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\About.css",
+      "PackagePath": "staticwebassets\\css\\About.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\Movie.css",
+      "PackagePath": "staticwebassets\\css\\Movie.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\jquery.convform.css",
+      "PackagePath": "staticwebassets\\css\\jquery.convform.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\jquery.convform.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.convform.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\nav.css",
+      "PackagePath": "staticwebassets\\css\\nav.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\bg-footer1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-footer1.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\bg2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg2.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\bg3.jpg",
+      "PackagePath": "staticwebassets\\img\\bg3.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\bg4.jpg",
+      "PackagePath": "staticwebassets\\img\\bg4.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\bg5.jpg",
+      "PackagePath": "staticwebassets\\img\\bg5.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\bg6.jpg",
+      "PackagePath": "staticwebassets\\img\\bg6.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\bg7.jpg",
+      "PackagePath": "staticwebassets\\img\\bg7.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\client\\client-1.jpg",
+      "PackagePath": "staticwebassets\\img\\client\\client-1.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\client\\client-2.jpg",
+      "PackagePath": "staticwebassets\\img\\client\\client-2.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\client\\client-3.jpg",
+      "PackagePath": "staticwebassets\\img\\client\\client-3.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\header-background-1.jpg",
+      "PackagePath": "staticwebassets\\img\\header-background-1.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\header-background-2.jpg",
+      "PackagePath": "staticwebassets\\img\\header-background-2.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\img\\loading.gif"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\mss.png",
+      "PackagePath": "staticwebassets\\img\\mss.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\perfect-style.jpg",
+      "PackagePath": "staticwebassets\\img\\perfect-style.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-10.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-10.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\service\\service-1.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\service-1.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\service\\service-2.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\service-2.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\service\\service-3.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\service-3.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\service\\service-4.jpg",
+      "PackagePath": "staticwebassets\\img\\service\\service-4.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\img\\treamer-small.png",
+      "PackagePath": "staticwebassets\\img\\treamer-small.png"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\autosize.min.js",
+      "PackagePath": "staticwebassets\\js\\autosize.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\common.js",
+      "PackagePath": "staticwebassets\\js\\common.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\contact_me.js",
+      "PackagePath": "staticwebassets\\js\\contact_me.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\contact_me.min.js",
+      "PackagePath": "staticwebassets\\js\\contact_me.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets\\js\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\jquery-3.5.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.5.1.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\jquery.convform.css",
+      "PackagePath": "staticwebassets\\js\\jquery.convform.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\jquery.convform.js",
+      "PackagePath": "staticwebassets\\js\\jquery.convform.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\jquery.convform.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.convform.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\movie.js",
+      "PackagePath": "staticwebassets\\js\\movie.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\nicescroll.js",
+      "PackagePath": "staticwebassets\\js\\nicescroll.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\style.js",
+      "PackagePath": "staticwebassets\\js\\style.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\testimonials.js",
+      "PackagePath": "staticwebassets\\js\\testimonials.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\mail\\contact_me.php",
+      "PackagePath": "staticwebassets\\mail\\contact_me.php"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\_about.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_button.scss",
+      "PackagePath": "staticwebassets\\scss\\_button.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\_contact.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_global.scss",
+      "PackagePath": "staticwebassets\\scss\\_global.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_heading.scss",
+      "PackagePath": "staticwebassets\\scss\\_heading.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_masthead.scss",
+      "PackagePath": "staticwebassets\\scss\\_masthead.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_perfect-style.scss",
+      "PackagePath": "staticwebassets\\scss\\_perfect-style.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_portfolio.scss",
+      "PackagePath": "staticwebassets\\scss\\_portfolio.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_services.scss",
+      "PackagePath": "staticwebassets\\scss\\_services.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_team.scss",
+      "PackagePath": "staticwebassets\\scss\\_team.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\scss\\_testimonials.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\app.scss",
+      "PackagePath": "staticwebassets\\scss\\app.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\fonts\\font-railaway.scss",
+      "PackagePath": "staticwebassets\\scss\\fonts\\font-railaway.scss"
+    },
+    {
+      "Id": "D:\\mystyle\\mss\\mss\\wwwroot\\scss\\fonts\\font-roboto.scss",
+      "PackagePath": "staticwebassets\\scss\\fonts\\font-roboto.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.mss.props",
+      "PackagePath": "build\\mss.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.mss.props",
+      "PackagePath": "buildMultiTargeting\\mss.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.mss.props",
+      "PackagePath": "buildTransitive\\mss.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.mss.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mystyle\\mss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\mss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\mss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\migrations\\20240330103806_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\migrations\\20240330103806_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\migrations\\20240330104202_usersrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\migrations\\20240330104202_usersrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\home\\page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\home\\page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|d:\\mystyle\\mss\\mss\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D62F8E57-941C-41FA-BAEA-8556D1CFBE83}|mss\\mss.csproj|solutionrelative:mss\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mss",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\mss.csproj",
+              "RelativeDocumentMoniker": "mss\\mss.csproj",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\mss.csproj",
+              "RelativeToolTip": "mss\\mss.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-10T09:21:04.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "mss\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T04:29:31.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "mss\\Data\\AppDbInitializer.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "mss\\Data\\AppDbInitializer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA2wBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:41:39.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240330103806_initial.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Migrations\\20240330103806_initial.cs",
+              "RelativeDocumentMoniker": "mss\\Migrations\\20240330103806_initial.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Migrations\\20240330103806_initial.cs",
+              "RelativeToolTip": "mss\\Migrations\\20240330103806_initial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:41:03.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\appsettings.json",
+              "RelativeDocumentMoniker": "mss\\appsettings.json",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\appsettings.json",
+              "RelativeToolTip": "mss\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T10:20:53.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "mss\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "mss\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:32:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Program.cs",
+              "RelativeDocumentMoniker": "mss\\Program.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Program.cs",
+              "RelativeToolTip": "mss\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:32:02.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "mss\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "mss\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIA0wBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:40:22.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mss\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mss\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T14:29:00.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240330104202_usersrole.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Migrations\\20240330104202_usersrole.cs",
+              "RelativeDocumentMoniker": "mss\\Migrations\\20240330104202_usersrole.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Migrations\\20240330104202_usersrole.cs",
+              "RelativeToolTip": "mss\\Migrations\\20240330104202_usersrole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:41:03.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "mss\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:27:50.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "mss\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:17:56.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "mss\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "mss\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:22:08.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mss\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T10:34:10.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "mss\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "mss\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T08:46:51.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "page.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\Home\\page.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\Home\\page.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\Home\\page.cshtml",
+              "RelativeToolTip": "mss\\Views\\Home\\page.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:17:03.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\index.html",
+              "RelativeDocumentMoniker": "mss\\index.html",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\index.html",
+              "RelativeToolTip": "mss\\index.html",
+              "ViewState": "AQIAANsBAAAAAAAAAAAuwBcCAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-28T08:14:44.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "mss\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T08:35:25.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mss\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:30:27.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mss\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwCYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:28:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "blog.cshtml",
+              "DocumentMoniker": "D:\\mystyle\\mss\\mss\\Views\\Home\\blog.cshtml",
+              "RelativeDocumentMoniker": "mss\\Views\\Home\\blog.cshtml",
+              "ToolTip": "D:\\mystyle\\mss\\mss\\Views\\Home\\blog.cshtml",
+              "RelativeToolTip": "mss\\Views\\Home\\blog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T14:29:34.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
